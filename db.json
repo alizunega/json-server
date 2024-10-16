@@ -149,36 +149,6 @@
       "name": "Tenis Infantil Nike Flex Runner",
       "price": 279.99,
       "image": "https://imgcentauro-a.akamaihd.net/230x230/94461431.jpg"
-    },
-    {
-      "id": 26,
-      "name": "Tenis Asics Patriot 12",
-      "price": 199.99,
-      "image": "https://imgcentauro-a.akamaihd.net/230x230/951509X8.jpg"
-    },
-    {
-      "id": 27,
-      "name": "Tenis Asics Patriot 12",
-      "price": 199.99,
-      "image": "https://imgcentauro-a.akamaihd.net/230x230/9515093X.jpg"
-    },
-    {
-      "id": 28,
-      "name": "Tenis Puma Anzarun SR BDP",
-      "price": 229.99,
-      "image": "https://imgcentauro-a.akamaihd.net/230x230/9590484W.jpg"
-    },
-    {
-      "id": 29,
-      "name": "Tenis Nike Revolution 5",
-      "price": 249.99,
-      "image": "https://imgcentauro-a.akamaihd.net/230x230/943137D0.jpg"
-    },
-    {
-      "id": 30,
-      "name": "Tenis Nike Renew Run",
-      "price": 279.99,
-      "image": "https://imgcentauro-a.akamaihd.net/230x230/9465459P.jpg"
     }
   ]
 }
